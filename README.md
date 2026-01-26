@@ -76,23 +76,25 @@ For each day, a separate folder is created that includes:
   
 90DaysOfDevOps/
 │
-├── README.md                 # Main repo overview
-├── CONTRIBUTING.md           # Contribution guidelines (optional)
-├── LICENSE                   # License file
-├── .gitignore                # Git ignore rules
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── .gitignore
 │
-├── scripts/                  # Helper scripts or utilities
+├── scripts/
 │   └── helper-scripts.sh
-|
-├── Day-01/
-├── README.md            # Explains Day-01 objective, task summary, hands-on work, key takeaways
-├── learning-plan.md     # Your personal 90-day DevOps learning plan (typed in Markdown)
-└── screenshots/         # Optional folder to store handwritten plan photos or output screenshots
+│
+├── day-01/
+│   └── README.md
+│   └── learning.md
+├── day-02/
+│   └── README.md
+│   └── learning.md
 ├── ...
-├── Day-90/
-├── README.md            
-├── learning-plan.md     
-└── screenshots/ 
+├── day-90/
+│   └── README.md 
+│   └── learning.md
+
 
 ---
 
