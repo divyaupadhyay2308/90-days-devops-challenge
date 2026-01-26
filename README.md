@@ -74,26 +74,25 @@ For each day, a separate folder is created that includes:
 - Commands, scripts, or configuration files
 - Learnings and observations
   
+```
 90DaysOfDevOps/
-│
 ├── README.md
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── .gitignore
-│
 ├── scripts/
 │   └── helper-scripts.sh
-│
 ├── day-01/
-│   └── README.md
+│   ├── README.md
 │   └── learning.md
 ├── day-02/
-│   └── README.md
+│   ├── README.md
 │   └── learning.md
 ├── ...
 ├── day-90/
-│   └── README.md 
+│   ├── README.md
 │   └── learning.md
+```
 
 
 ---
